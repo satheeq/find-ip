@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "public-ip": "^8.0.0"
+  }
+}
